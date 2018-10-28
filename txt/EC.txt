@@ -1,0 +1,5 @@
+ middle F
+ middle G
+
+ img left pv_equals_nrt.jpg
+ img right ghost.png

@@ -1,0 +1,23 @@
+
+               .--.  .-.   .-. .----.  .----.   .-..-. .-.
+              / {} \ |  `.'  |/  {}  \{ {__     | ||  `| |
+             /  /\  \| |\ /| |\      /.-._} }   | || |\  |
+             `-'  `-'`-' ` `-' `----' `----'    `-'`-' `-'
+.-. . .-. .----. .-. .-..----. .----..----. .-.     .--.  .-. .-..----. 
+| |/ \| |/  {}  \|  `| || {}  \| {_  | {}  }| |    / {} \ |  `| || {}  \
+|  .'.  |\      /| |\  ||     /| {__ | .-. \| `--./  /\  \| |\  ||     /
+`-'   `-' `----' `-' `-'`----' `----'`-' `-'`----'`-'  `-'`-' `-'`----' 
+#########################################################################
+#                                                                       #
+#               Story By Alex X. Amos L, and Louie L                    #
+#               Programmed by Alex X.                                   #
+#                                                                       #
+#########################################################################
+
+Once upon a time, there was a little boy named Amos. Amos had a really wonderful chemistry teacher, called Mr. Irani. Unfortunately, Amos didn't realize how fortunate he was to have such a great person in his school life. So much so that Amos wanted to skip a mock exam. So the day before the exam, having not studied for jack, he beseeched his friend Louie for help. 
+
+Louie gave Amos two choices.
+"Take either this cup of blue liquid or this red pill. You take the blue liquid, you face reality and believe whatever you want to believe. You take this red pill. You go to Wonderland and I'll show you how deep the rabbit hole goes."
+
+Enter A if Amos chooses the cup of suspicious blue liquid
+Enter B If Amos chooses the red pill
