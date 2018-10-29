@@ -6,8 +6,5 @@ After walking with Alex the Guard for two days, the guard leads Amos to a giant 
 "Why do you keep on repeating the word ‘trap' ? Is it because you are one?"Amos inquired innocently.
 "SILENCE! We shall have you interrogated thoroughly." the Trap Queen was mad, trapped, and he felt slapped for his use of the word ‘trap'.
 
-
-
-If Amos gives honest answers, proceed to O
-If Amos answers with lie, proceed to P
- 
+Enter O if Amos gives honest answers
+Enter P if Amos lies

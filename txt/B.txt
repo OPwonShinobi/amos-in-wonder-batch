@@ -32,5 +32,5 @@ After finally figuring out the algebra, Amos looks around and finds an old, dust
 
 <See popup for images>
        
-If Amos drinks the water, proceed to C
-If Amos eats the cake, proceed to E
+Enter C if Amos drinks the water
+Enter E if Amos eats the cake, proceed to E

@@ -9,6 +9,5 @@ Inside, Amos is greeted by a transvestite dressed in royal undergarment.
 "Oh boy, I love where this is going…."
 "Me too, now let's have some fun."
 
-If the Red Queen wants to play with electricity, proceed to Q
-If the Red Queen likes to play with acid, proceed to R
-
+Enter Q if the Red Queen wants to play with electricity
+Enter R if the Red Queen likes to play with acid

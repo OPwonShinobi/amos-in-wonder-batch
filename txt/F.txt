@@ -23,7 +23,5 @@ If in the process of formation, Amos produced 100 kJ of Gibbs free energy while 
  *anytime one's working with energy, the unit is joules(J) or kilojoules(kJ)
 "Now that you have the formula and how the variables work, all you need to do is plug in the numbers!"
 
-
-If Amos messes up his calculations, proceed to I
-If Amos completes his calculations, proceed to H
- 
+Enter I if Amos messes up his calculations
+Enter H if Amos completes his calculations

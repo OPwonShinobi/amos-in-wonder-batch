@@ -126,6 +126,5 @@ Lastly, for question 8, the answer is Major OH- , because the order is balancing
 
 As Amos(Louie) finishes his long explanation that Irani isn't going to read, the crowd goes wild for him. Alex the trophy treasurer bestows Amos a shiny pedestaled golden test tube of excellence. 
 
-If Amos decides to come clean, proceed to W
-If Amos keeps everything to himself, proceed to V
- 
+Enter W if Amos decides to come clean
+Enter V if Amos keeps everything to himself

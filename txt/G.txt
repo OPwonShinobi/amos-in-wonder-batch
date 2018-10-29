@@ -19,6 +19,5 @@ Amos wanders around and sees a poster that reads "Chemofighters, Chemo(n) and Ja
 "Sounds like a fighting tournament, maybe I should go check it out."
 
 
-
-If Amos goes to the tournament, proceed to U
-If Amos chooses to ignore the poster, proceed to T
+Enter U if Amos goes to the tournament
+Enter T if Amos chooses to ignore the poster
