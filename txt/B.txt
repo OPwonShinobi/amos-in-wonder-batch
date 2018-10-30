@@ -8,29 +8,25 @@ He falls for a long time, and lands on the rabbit, killing it.
 Standing up, Amos finds himself standing with his back against a brick wall. He notices that for every x unit of time, he shrinks by half, in brick units. Finding that he is actually shrinking at a set rate. Out of the blue, a floating cat appears with Louie's visage. He presents amos with a set of formulas teaching him about the rate that he is decreasing in. Usually, concentration is measured in molarity (moles / litres), but this case, assume concentration = Amos' height. From the formula  " Rate = k[Amos]n ", Amos looks for his n value. By finding this n, the order of the reaction, Amos can link it to one of three given half life formulas. This way, he can find the amount of Amos(s) remaining after x time.
 
 Reaction formula:
-Amos(small) + Unknown(l/aq) + Pill(s) →  Amos (smaller)
+Amos(small) + Unknown(l/aq) + Pill(s) ->  Amos (smaller)
 
-Amos' Height
- (cm, aka concentration)
-Rate of Formation (concentration/s)
-150
-15
-75
-7.5
-37.5
-3.75
-18.75
-1.875
+     Amos' Height        |
+(cm, aka concentration)  | Rate of Formation (concentration/s)
+--------------------------------------------------------------
+150                      | 15
+75                       | 7.5
+37.5                     | 3.75
+18.75                    | 1.875
 
 Since the formula is k[Amos]n , then 
-15 = k[150]n  <= writing it like this cancels out the k, and Amos is left with 2 = [2]n, thus n = 1, 
-7.5 = k[75]n 	    meaning the reaction is first order
-
+           n                                                                         n
+15 = k[150]  <= writing it like this cancels out the k, and Amos is left with 2 = [2] , thus n = 1, 
+____________    meaning the reaction is first order
+           n
+7.5 = k[75] 	    
 
 
 After finally figuring out the algebra, Amos looks around and finds an old, dusty apartment. He enters and finds a table decorated with a glass of water and a cake.
-
-<See popup for images>
        
 Enter C if Amos drinks the water
 Enter E if Amos eats the cake, proceed to E

@@ -2,4 +2,5 @@ middle U
 middle T 
 
 img left gas_law.png
-img right arena.png
+img left 
+img right arena.pngroot_means_squared
