@@ -4,8 +4,6 @@ How to run
 ----------
 Click on start.bat or call it from a cmd/powershell console. Enter y or n for enabling image popups, then enter letters when prompted to proceed in the scenes.
 
-Optionally, you can verify if images will work properly on your machine by running imgCheck.bat.
-
 Project layout
 --------------
 The control modules (start, end, and middle.bat) can be easily reused for another project.
@@ -27,6 +25,7 @@ cmdow.exe
 
 imgCheck.bat
 	Run this to check for rundll32.exe and PhotoViewer.dll on the current machine, both of which are needed to load images properly. 
+	Manually running this is optional as the main script will run this script to check anyway.
 
 start.bat
 	Run this script to start the game.

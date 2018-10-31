@@ -13,7 +13,10 @@ if "%*" NEQ "setup" (
 :ImageDisplayPrompt
 set /p userInput="Would you like to enable popups(images) for this adventure? [Y/N]"
 if /i "%userInput%"=="y" (
-	set imagesOn=TRUE
+	:: checks whether program used for images are found
+	set dllStatus=status
+	call imgCheck.bat %dllStatus%
+	set imagesOn=%dllStatus%
 ) else (
 	if /i "%userInput%"=="n" (
 		set imagesOn=FALSE
