@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-:: should only open if called
+:: only load rest of script if called via another script; user shouldn't run this script directly
 if "%*"=="" (
 	exit
 ) else (
@@ -10,7 +10,11 @@ if "%*"=="" (
 SET "nextNode1="
 SET "nextNode2="
 
+:: read & display the current scene text
 type ".\txt\%currentNode%.txt"
+::empty line after printing body of text
+echo:
+
 :: scan choice file for possible middle commands and paths
 set cmd="findstr /l "middle" .\txt\%currentNode%C.txt"
 for /f "tokens=1-2 delims= " %%x in (' %cmd% ') do (
@@ -21,7 +25,7 @@ for /f "tokens=1-2 delims= " %%x in (' %cmd% ') do (
 	)
 )
 
-:: scan choice file for possible end command and path
+:: scan choice file for possible end command and ending path
 set cmd="findstr /l "end" .\txt\%currentNode%C.txt"
 for /f "tokens=1-2 delims= " %%x in (' %cmd% ') do (
 	call end.bat %currentNode%
@@ -41,6 +45,7 @@ if /i "%imagesOn%"=="TRUE" (
 		start /min openImg !fullFilePath!
 		:: close the cmds used to open images
 		cmdow openImg /cls
+		:: after delay, move & resize images
 		for /l %%i in (1, 1, 25) do (
 			ping 120.0.0.1 -n 1 -w > nul
 		)
@@ -51,10 +56,7 @@ if /i "%imagesOn%"=="TRUE" (
 			cmdow "%%z - Windows Photo Viewer" /res /siz 650 750 /mov 700 0 /act
 		)
 	)
-) 
-
-::empty line after printing body of text
-echo:
+)
 
 :foreverloop
 set /p userInput=""

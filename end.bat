@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-:: should only open if called
+:: only load rest of script if called via another script; user shouldn't run this script directly
 if "%*"=="" (
 	exit
 )

@@ -1,13 +1,15 @@
 @echo off
 setlocal enabledelayedexpansion
-:: change 
+:: opens a maximized cmd window: open a second instance of this script with max enabled
+:: and close the first non-maximized instance
 if "%*" NEQ "setup" (
 	start /max start.bat setup
 	echo die
 	exit
 )
 
-:: popups can get annoying, deal with this first with infinite loop
+:: image popups can be annoying, give user option to turn it off.
+:: generic prompt in a forever loop
 :ImageDisplayPrompt
 set /p userInput="Would you like to enable popups(images) for this adventure? [Y/N]"
 if /i "%userInput%"=="y" (
@@ -20,8 +22,12 @@ if /i "%userInput%"=="y" (
 	)
 )
 
-mode CON COLS=750 LINES=100
+:: enlarge cmd window to full screen if is not already
+mode CON COLS=200 LINES=100
+:: read & display the intro text
 type ".\txt\intro.txt"
+:: empty line after printing body of text
+echo:
 
 :: scan choice file for possible middle commands and paths
 set cmd="FINDSTR /L "middle" .\txt\introC.txt"
@@ -32,9 +38,6 @@ FOR /F "tokens=1-2 delims= " %%x IN (' %cmd% ') DO (
 		SET nextNode2=%%y
 	)
 )
-
-:: empty line after printing body of text
-echo:
 
 :PathSelectPrompt
 set /p userInput=""
