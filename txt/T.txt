@@ -1,0 +1,15 @@
+Amos continues wandering around and bumps into Alex the Stranger. 
+What? Alex the Stranger is evolving!
+Congratulations, Alex the Stranger evolved into Alex the Friend.
+
+Before, Alex had an oxidation number of 0 (because he was a neutral atom).
+Now, Alex has an oxidation number of 2.
+Through the pokedex, Amos learns the way to calculate the level (oxidation number) of a pokemon (species).
+	1. Find the overall charge of the species, which is the sum of the oxidation numbers of all the species.
+	2. Isolating the elements that is not constant.
+	3. Constant oxidation #s: Alkali metals = +1, Alkaline earth metals = +2, oxygen = -2 (except in H2O2 (-1) and OF2(+2)), halogen = -1
+
+Amos and Alex the Friend went on an adventure to catch them all. During their trip, Amos and Alex the Friend bonded closer and Alex the Friend evolved into Alex the Best Friend.
+
+~FIN~
+ 

@@ -1,0 +1,14 @@
+Amos eats the cake, dies and sublimes into a ghost [ Amos(s) ->  Amos(g) ] and wanders around. Out of nowhere, Ghostbuster Alex appears and sucks Amos up into a proton pack. Printed inside the pack, Amos finds the volume and the max pressure that the pack can endure.  Having nothing better to do, Amos uses the only thing he remembers from class, the ideal gas law formula: 
+
+	PV=nRT  where:
+	
+ 	P = pressure in atm    
+	V=volume in L    
+	n=moles of gas  
+	R=gas constant of 0.08201L x atm/mol x K 
+	T= degrees in Kelvin
+
+He finds that the temperature needed to get to the max pressure is very freaking high. Desperate to get free, Amos remembers how the average KE of molecules is proportional to its temperature. Promptly, Amos attempts to frantically vibrate his ghost molecules in order to increase the temperature.
+
+Enter F if Amos succeeds in achieving the max pressure
+Enter G if Amos fails in achieving the max pressure

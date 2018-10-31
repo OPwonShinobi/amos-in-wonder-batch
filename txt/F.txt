@@ -1,0 +1,29 @@
+Amos manages to break the photon pack. In a fantastic explosion that also knocked Alex out for an indeterminate amount of time, Amos rapidly spread out in all directions.
+After Amos reassembles his gassy body with the force of sheer will, he realizes that Alex has brought him somewhere alien. 
+"WHAT THE HELL!" remarks an Indian-looking red queen in drag, with greying whiskers and sideburns. 
+Amos asks out of innocent curiosity, "Which one are you supposed to be? A king or a queen? I wanna see, is it sausage or is it taco?" 
+"NAY NAY!" barks the unisex monarch, "the existence of my schrö-dingdong will only be revealed if you wait ‘till bonding."
+"Regardless, you have interrupted my calculations. Now you shall be headed," demanded the Red Queen.
+"I shall be headed? Be the head of what?"
+"Be the head of my next calculation. If you succeed, then you will be headed home."
+"And If I say nay nay or I make doodoo on my calculations?"
+"Then you shall be headed to my chemistry torture chamber. "
+"Welp, I already know where I'm heading."
+
+With a sleight of hand, the Red Queen writes out a question on a Windows Surface, which is projected onto a nearby screen.
+It reads:
+If in the process of formation, Amos produced 100 kJ of Gibbs free energy while absorbing 50J of enthalpy at a temperature of 27℃, what is his change in entropy? As well, is 
+"O great cat o'Louie, I beseech thee" proclaimed Amos, while kneeling despairingly.
+"If you're looking for trouble, here I am!" Louie appears in a buff of Amos gas.
+
+	^G = ^H - T * ^S
+ 
+	H = enthalpy, change in heat energy
+	G = Gibbs free energy, energy available to do work
+	S = entropy, randomness in the universe, measured in energy
+	anytime one's working with energy, the unit is joules(J) or kilojoules(kJ)
+
+"Now that you have the formula and how the variables work, all you need to do is plug in the numbers!"
+
+Enter I if Amos messes up his calculations
+Enter H if Amos completes his calculations

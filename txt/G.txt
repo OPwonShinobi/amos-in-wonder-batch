@@ -1,0 +1,31 @@
+Louie the Cat shows up. He reminds Amos "The ideal gas law only applies if you have only 1 molecule. Amos, you are 1 mole of gas, which is 6.02 x 10^23 molecules. Because there are so many particles of you, and all of them are bouncing against each other, there is no ideal way to calculate you. Therefore, let me show you the actual formula for the real gas law:"
+
+	       2
+	      n  a
+	( P + ----- )(V - nb) = nRT
+	        2
+	       V
+
+It only took Amos a glance at the formula to get scared, and immediately averted his eyes.
+Luckily, Amos notices a tiny hole in the pack. After a couple hours of squeezing, he manages to use effusion to effuse himself out.
+
+Once again, Louie the Cat appears. "To calculate your average speed out of the container, we need to find your root mean square speed, which is a better approximation of your particles' average speed.
+	     ________
+	     |  3RT
+	u =  | -----
+	    \|   M
+
+	R = gas constant 8.3145 J/K mol
+	M = molar mass of gas 
+	T = degrees in Kelvin 
+	u = sqrt(average speed of gas molecules)^2 in m/s
+
+Assume Amos(g) has molar mass equal to his width, which is 0.4m, at room temperature(300K)
+	u = sqrt [(3x8.3145 x 300 ) / 0.4] =136 metres/seconds 
+"I'm pretty fast, aren't I?"Amos remarks.
+"Then you should join Chemofighters. You can use your speed to your advantage," Louie said.
+Amos wanders around and sees a poster that reads "Chemofighters, Chemo(n) and Jam."
+"Sounds like a fighting tournament, maybe I should go check it out."
+
+Enter U if Amos goes to the tournament
+Enter T if Amos chooses to ignore the poster

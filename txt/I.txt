@@ -1,0 +1,17 @@
+Amos looked at Louie's formula.
+"This is easy. I just need to plug stuff into the formula, like I did for all of pre-cal and physics."
+Upon hearing this, the Red Queen turned redder, just a bit.
+"So, it should look something like this:
+
+	> 100kJ = 50J - (27'C) * ^S 
+	> (27'C) ^S = -50kJ
+	> ^S ~= -1.851kJ
+
+The reaction is spontaneous because number given for free energy is positive. SEE! SO EASY!"
+The Red Queen snapped. In addition to disrespecting teachers of his other classes, Amos didn't make any conversions and made false assumptions.
+
+"NAY-NAY! You're always supposed to use kelvin when working with energy, and you didn't convert the kilojoules of enthalpy into joules. You even got the spontaneity question wrong. Now off to the torture chamber with you! But first, you look so ghastly in that gassy ghost get-up. Let me use my wand to change you into something a bit more...malleable." 
+*Puff* Amos is now a human made of junk metal.
+
+Amos doesn't have a say in his fate, Enter L to proceed. 
+ 

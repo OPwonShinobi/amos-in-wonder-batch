@@ -1,0 +1,4 @@
+middle F
+middle G
+
+img right ghost.png

@@ -1,0 +1,26 @@
+The Red Queen decides to electrocute Amos. However, because Amos's body composition is now mostly metal and he is in a messed up state that doesn't remotely resemble a human, he does not fit in an electric chair. Instead, the Red Queen places Amos in a bathtub with a wire looped around his' neck. He then fills the tub with water, and adds a Cu(s) block attached to a copper wire attached to a battery attached to the wire around Amos' neck. 
+
+"Voilà, the circuit is complete. Let me add some salt to the water as extra insurance. Power ON!"
+Amos cries out in pain, and starts to form smoke. The Schadenfreude excites the Red Queen very much.
+"Wait a second, Amos, what's this copper-coloured stuff on you? "
+Then he realizes he poured in CuSO4 (aq) instead of pure H2O.
+"This is very interesting. I'll make a diagram of it."
+										
+"O wait this is a electrolysis cell, let me explain this to you before I kill you."
+
+"In any type of electro-cell, electron flow is always from anode to cathode. In this case, Because Amos is now a metal that has lower reduction potential than Cu2+, it is the cathode. This causes the battery to supply electrons to Amos (s),  and the Cu2+ ions will stick onto the cathode". 
+
+"In case you don't know what cathode, anode, oxidation and reduction mean, let me quickly explain them to you. Oxidation reaction is a half reaction in which a species loses electrons and Reduction is a half reaction in which a species gains electrons. Anode and cathode are electrode, conductors at which half reaction occurs. Anode is where oxidation occurs and Cathode is where reduction occurs." 
+
+                                                        ose  lectrons  xidation                ain  lections  eduction
+"To make the oxid/reduc-thingy easier to remember, use L    E         O         the lion says G    E         R        . "
+
+                                                  ode   idation    thode   udction
+"To make the electrodes easier to remember, use AN    OX         CA     RED       ."
+
+A lion kept in a cage in the corner of the room was about to eat an ox. The Red Queen suddenly hatched an idea for poetic justice, so he let out the lion onto Amos' bathtub and lets the ox go.
+
+"Now I guess you can say Leo the Lion gerred, and only an ox cared hahahaha… ‘K I'll see myself out. You stay right here forever."
+
+~ FIN ~
+ 

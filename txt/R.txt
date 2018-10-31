@@ -1,0 +1,62 @@
+"I like Acids (& bases). They makes me feel good. Do you like acids?"
+
+"Red Queen you're a masochist."
+
+"I guess I'll just be a sadist and prove you wrong then," said the Red Queen as he prepares a vat of base.
+
+"Amos, have you ever read ‘1001 Arabian Nights?'. Do you know what Aladdin did to those bandits?"
+
+"...no?"
+
+"He dunked them in a vat of hot oil and covered the lid. You'll suffer a worse fate though, since we're all out of hot oil."
+
+"No please no!"
+
+Disregarding Amos' pleas, Red Queen-sama dunks Amos into the basic vat.
+"AHHhhh....? Wait I can't feel the burn."
+
+"That must mean you're a metal. Metals don't react with bases. If that's the case, we'll soak you in acid. Once again, before I kill you I'll explain how this works.
+
+There are two sets of definitions you need to know about acids and bases.
+Arrhenius                                           | Brönsted-Lowry
+-----------------------------------------------------------------------------------------------
+-the simpler one you probably learned in science 10 | -more widespread use, less ambiguity
+                                               	    | -there is no such thing as H+, any lone Hydrogen ion becomes H3O+ in water 
+                                               	    | 
+Acids                     | Bases                   | Acids                     | Bases                   
+-release H+ in H2O        | -release OH- in H2O     | -donates H3O+ in H2O      | -accepts H3O+ in H2O                    
+-reacts with bases to     | -reacts with acids to   | -none of the other        |   
+ form CO2 & H2O           |  form CO2 & H2O         |  properties are constant  |                        
+-reacts with metals to    | -unreactive with metals |                             
+ form H2 gas              | -turn litmus blue       |                              
+-turn litmus red          | -burns on touch         |                                                  
+-sour & slipper on touch  |                         |              
+                                                    | 
+-water: neutral                                     | -water: amphiprotic, can be either one               
+
+I'm sure you already knew acids and bases can be measured in pH, and less commonly, pOH. (use a scientific calculator to to solve the log functions)
+pH = log [H3O+]
+pOH = log [OH-]
+
+But did you know water naturally ionizes into an acid and a base?
+2H2O + 59 kJ => H3O+ + OH-
+This could be proved by
+[H3O+] x [OH-] = 1x10-14(Kw, constant for water)
+pH + pOH = 14 
+
+Acids could also be turned into a base(Brönsted-Lowry-wise), called a conjugate base, and vice-versa. Here's an example:
+H2SO4(acid)+ H2O(base) => HSO4-(conjugate base) + H3O+(conjugate acid) 
+Their strengths can also be ranked with Ka(for acids) and Kb(for bases) values, found by adding the acid/base to water.
+
+HCl + H2O => Cl- + H3O+     Keq=[products] / [reactants] => Ka=[Cl-] [H3O+] / [HCl ] [H2O+] which we can simplify to Ka = [H3O+][Conj.Base] / [Conj.Acid ]
+
+Ka can be used to calculate pH, and Kb can also be used to calculate pOH in the same way.
+For example, if a reaction is Acid + H2O <-------> Conj. Base + H3O+
+we know Ka = [H3O+][Conj.Base]/[Conj.Acid], we can find the pH, by isolating [H3O+] and logging it to find the pH value.
+
+Kb works the same, just with [OH-] in place of [H3O+]
+And last but not least, we have strong acids, which turn into 100% ions and thus corrode things better and weak acids…."  
+
+Little does Amos know, the Red Queen has used a very dilute weak acid to corrode Amos' metal body, and that's why there isn't noticeably corrosion on him despite being submerged for so long. The Red Queen did this intentionally; he likes people to listen and acknowledge his intelligence. However, before that happened, Amos got tired of listening to all this bs and he committed suicide.
+ 
+~ FIN ~

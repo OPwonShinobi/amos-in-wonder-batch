@@ -1,0 +1,15 @@
+ Amos, immediately for some reason, starts to dissolve from his stomach after he drinks the water. In a morbid display of biology, Louie witnesses Amos turning from a solid organism, to a fleshy mass of aqueous organs. 
+
+"Hey, why did I stop dissolving, I look disgusting in this midway state."
+
+"It's because you've reached equilibrium. You're forming products and reactants at the same rate. Here is your formula:
+	Amos (s) + H2O(l) -> Amos (aq)
+
+Keq is the a constant that equals the concentration of the reaction products over reactants in an equilibrium. For this reaction:
+	Keq = [Amos(aq)]/[Amos(s)][H2O(l)]
+
+However, solids and liquids always have a concentration of 1, which you can omit. So the reaction becomes:
+	Keq = [Amos(aq)]
+
+Enter S if Louie decides to add more H2O to amos
+Enter D if Louie decides to dry Amos up

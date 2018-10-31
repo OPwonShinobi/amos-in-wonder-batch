@@ -1,0 +1,125 @@
+After walking into the arena, he realizes he made a grave mistake. 
+Before him stands a bald guy in a yellow jumpsuit with a white cape, with orange rubber gloves 
+
+"Introducing the returning champion of Chemofighters, ladies and gentleman, Ghost Boy!!!" Declared Alex the Announcer.
+Being confused as heck, Amos is being pushed by Alex the Security Guard into the stadium with the audience cheering for him. 
+
+
+
+"Introducing the new challenger, Caped Baldy ALEX!!!"
+The crowd cheers once more.
+"Now, let's get ready to rumble~~~~" 
+Two whiteboards appears out of nowhere and a series of chem questions appear on the big screen. 
+"Wtf am i doing here?" Amos yells as he realizes this ain't no fighting tournament.
+
+<Note: the test below is included to stay true to the original, the answer key is integrated into the story after. >
+
+Question 1 : 
+  Given the following formulas, calculate ^H of C2H8 + 2O2 => C2H4O2 +2H2O.
+    4H2O + 2CO2 => C2H8 +  4O2              ^H = -1kJ
+    2CO2 + 2H2O => C2H4O2 + 2O2             ^H = -2kJ
+
+    a) The change in enthalpy for the combined equation is -3kJ
+    b) The change in enthalpy for the combined equation is 1kJ
+    c) The change in enthalpy for the combined equation is 3kJ
+    d) None of the above
+
+Question 2: 
+  Is work done on a system positive work or negative work?
+    a) work is positive
+    b) work is negative
+    c) work is force of a system times displacement, therefore it depends on the system
+    d) work is subjective     
+
+Question 3: 
+  When a portion of water changes 300'K in temperature and 24kJ of energy is used, find the original mass of the water. 
+  (s of H2O = 4.18J / C per gram)
+    a) 4.20 x 10 g
+    b) 212.650 g
+    c) 2.12 x 103 g 
+    d) 210 g
+
+Question 4: 
+  In the reaction 2NO(g) + Br2 (g) ------> 2NOBr(g) , it is a two step mechanism
+    Step 1: NO(g) + Br2(g) <----k-1k1---> NOBr2(g)    (Fast)
+    Step 2: NOBr2(g)+ NO(g) ----k2---->2NOBr(g)       (Slow)
+  The overall rate law is: Rate = k2(k1/k-1)[NO]2[Br2]
+    a) True
+    b) False
+
+Question 5:
+  When will entropy of a substance decrease?
+    a) when ions are formed in a liquid
+    b) when gases are formed from an ion
+    c) when pressure increases at a constant volume
+    d) none of the above
+
+Question 6:
+  What is the concentration of Ag ions in a solution of saturated silver iodide?
+    a) 8.5 x 10--17 molar
+    b) 4.5 x 10-17 molar
+    c) 9.2 x 10-9 molar 
+    d) 9.2195 x 10-17 molar
+
+Question 7: 
+  Which of the following is a spontaneous redox reaction?
+    a) When species that is getting reduced has a higher reduction potential than the species getting oxidized
+    b) When species that is getting oxidized has a higher reduction potential than the species getting reduced
+    c) When both species can only reduce or oxidize. 
+
+Question 8: 
+  What is the correct acronym used to balance electrical Cell?
+    a) Major OH-
+    b) OH- Major
+    c) OH- BOI
+    d) Major in Bio
+
+"Time's UP!" exclaimed Alex the Announcer, "It is time to check their answers!! Caption Baldy Alex with 50% correct and OMG, Ghost boy with 100% correct, breaking the year end records again !!!! HOW IS THIS POSSIBLE?"
+"Well, it is 99% skills with 1% luck," Amos says, as he thinks ‘It's actually the complete opposite.'
+"Ghost boy, please explain your answers." 
+"Uh oh," Amos utters to himself, "please help me Louie the Cat."
+
+Louie the Cat appears one last time, and talks through Amos the Dummy. The audience doesn't notice him and buys the act.
+
+"The first question, I would use Hess' Law:
+It's like a math inequality, if you multiply or divide one side by something, you must do the same to the other side. If you reverse the equation, both sides must multiply by -1. When adding multiple reactions, the heat terms needs to be added as well. 
+        
+        4H2O + 2CO2 => C2H8 +  4O2           ^H = -1kJ    <- flip and x1 match general equation
+       C2H8 + 2 4O2 => 2 4H2O + 2CO2         ^H = 1kJ
+        2CO2 + 2H2O => C2H4O2 + 2O2          ^H = -2kJ
+         C2H8 + 2O2 => C2H4O2 +2H2O          ^H = -1kJ
+
+Since -1kJ is not an option, it's none of the above
+
+As for question 2, work is the energy required to move an object against a force. In this case, work is done ON system, which also mean system not doing work itself. Therefore, it is positive and it is gaining work.
+
+For question 3, we need to calculate the mass through specific heat formula . The formula is given as Heat energy (q) = (mass)(temperature change)(Specific heat capacity). Therefore by isolating the m, we will be able to find mass. 
+q=ms•^T => 24,000J=m(4.18)•(300-273)
+                               m=212.65g≈ 210g, 2 sig figs
+
+For question 4, the answer is true. Looking at the rate determining step (the slowest step in the series of reactions that add up to the overall balanced reaction, aka reaction mechanism), the rate law is Rate = k2[NOBr2][NO]. However, this is different from the rate law in the overall reaction, which the rate = k[NO]2[Br2]. Since there is no [NOBr2] in the overall rate law, we do algebra to substitute it:
+
+ k-1[NOBr2] = k1[NO][Br2] 
+    [NOBr2] = k1/k-1 [NO][Br2]
+       Rate = k2[NOBr2][NO] 
+            = k2(k1/k-1)[NO][NO][Br2] 
+            = k2(k1/k-1)[NO]2[Br2]
+
+Note that you can only do substitution if it is in an equilibrium because intermediates are usually unstable. 
+
+In question 5, all of the above increases entropy, so none of the above decrease entropy
+From greatest to least entropy, the states of matter are:
+Gas  >  Ions  >  Liquids  >  Solids
+
+To solve question 6 we need to understand what saturation is. Any salt can be added to water, up to a point, before it stops dissolving. That point is called the saturation point. Ksp (solubility constant) = [ions(aq) from the salt] / [salt(s)] 1 . Use a solubility table to write the ksp expression of AgI, 8.5x10-17 = [Ag+ ] [I-]. Since 1M of AgI will give 1M of Ag+ and I-, you can assume they're the same, 8.5x10-17 = [x] [x]. Use algebra to solve for x=9.21...x10-9 M. Since the table only had 2 sig figs, abbreviate it as 9.2 x 10-9 M. 
+
+For question 7, a redox reaction is two half reaction joining together. To determine if whether spontaneous or not, the standard cell potential needs to be positive. We can calculate this by the formula.
+ Eocell = E0Red - E0Ox
+Therefore in this question, the only example that is a spontaneous reaction is when the species that is getting reduce is higher than the species that is getting oxidized. Also, if both species can only oxidized or reduced then there would not be any reaction. 
+
+Lastly, for question 8, the answer is Major OH- , because the order is balancing the major atoms by adding coefficient, balance the Oxygen atoms, balance the Hydrogen atoms and then balance the (-ve) electrons last."
+
+As Amos(Louie) finishes his long explanation that Irani isn't going to read, the crowd goes wild for him. Alex the trophy treasurer bestows Amos a shiny pedestaled golden test tube of excellence. 
+
+Enter W if Amos decides to come clean
+Enter V if Amos keeps everything to himself

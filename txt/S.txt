@@ -1,0 +1,75 @@
+Louie, out of nowhere, pulls out a bucket of water and dumps it on Amos. 
+"Why are you trying to dissolve me more?" cried Amos.
+
+"You said you looked disgusting in this midway state right?"
+Louie kept adding water until all the Amos dissolved in water.
+"Maybe that wasn't the best choice," Louie said looking at the pool of liquid.
+Louie decides to collect a sample of Amos(aq) to see if he can put him back together.
+Through an unbelievably high-tech microscope Louie sees and recognizes some molecular structures in the Amos liquid. He pulls out his notes and finds out that most of the shapes are octahedron. 
+
+Hybridization | # of Bonds | # of Non-Bonding Pairs | Molecular Shape                | Bond Angles | 
+----------------------------------------------------------------------------------------------------
+              |            |                        |                                |             |
+sp            | 2          | 0                      |  ---O---  Linear               | 180'        |
+              |            |                        |                                |             |
+  2           |            |                        |  -_   _-                       |             |
+sp            | 3          | 0                      |    'O'    Trigonal Planar      | 120'        |
+              |            |                        |     |                          |             |
+              |            |                        |                                |             |
+  2           |            |                        |  -_   _-                       |             |
+sp            | 2          | 1                      |    'O'    Angular              | <120'       |
+              |            |                        |     "                          |             |
+              |            |                        |                                |             |
+  3           |            |                        |     |                          |             |
+sp            | 4          | 0                      |     O     Tetrahedral          | 109.5'      |
+              |            |                        |  _-'/'-_                       |             |
+              |            |                        |                                |             |
+  3           |            |                        |     :                          |             |
+sp            | 3          | 1                      |     O     Trigonal Pyramidal   | <109.5'     |
+              |            |                        |  _-'/'-_                       |             |
+              |            |                        |                                |             |
+  3           |            |                        |  -_ |                          |             |
+sp            | 2          | 2                      |    'O---  Angular              | <109.5'     |
+              |            |                        |  _-'|                          |             |
+              |            |                        |                                |             |
+  3           |            |                        |  -_ |                          |             |
+sp d          | 5          | 0                      |    'O :   Trigonal Bipyramidal | 120', 90'   |
+              |            |                        |  _-'|                          |             |
+              |            |                        |                                |             |
+  3           |            |                        |     |                          |             |
+sp d          | 4          | 1                      |     O---  See-Saw              | <120', <90' |
+              |            |                        |     |                          |             |
+              |            |                        |                                |             |
+  3           |            |                        |   . |                          |             |
+sp d          | 3          | 2                      |    :O---  T-shaped             | <90'        |
+              |            |                        |   ' |                          |             |
+              |            |                        |                                |             |
+  3           |            |                        |   . |                          |             |
+sp d          | 2          | 3                      |    :O :   Linear               | 180'        |
+              |            |                        |   ' |                          |             |
+              |            |                        |                                |             |
+  3 2         |            |                        |  -_ | _-                       |             |
+sp d          | 6          | 0                      |  ---O---  Octahedron           | 90'         |
+              |            |                        |  _-'|'-_                       |             |
+              |            |                        |                                |             |
+  3 2         |            |                        |  -_ | _-                       |             |
+sp d          | 5          | 1                      |  ---O---  Square Pyramidal     | <90'        |
+              |            |                        |  _-':'-_                       |             |
+              |            |                        |                                |             |
+  3 2         |            |                        |  -_ : _-                       |             |
+sp d          | 4          | 2                      |  ---O---  Square Planar        | 90'         |
+              |            |                        |  _-':'-_                       |             |
+ 
+
+
+In addition, Louie tries to figure out what types of intermolecular bonds (bonds between molecules)  are present in the Amos liquid, hoping this information would be helpful in putting him back together. 
+ 
+As Louie examines the liquid closer, he sees a bunch of tiny Amos wobbling around. He realizes this is because of London Dispersion, the attraction between adjacent molecules when electrons move to positions that form a temporary dipole.
+
+Louie then notices that some Amos' head are stuck to other's feet. Upon studying his booklet, Louie figures out that this is resulted from dipole-dipole force, which is the attraction between a negative end of a dipole and another's positive end.
+He also detects that even more Amos are also stuck to H2O molecules. Louie determines that this is because of Hydrogen Bonds, which is a special type of dipole-dipole bond that is strong because of the lack shielding around H. This only works when H is bonded to a highly electronegative atom such as N, O, or F.
+
+After hours of research, Louie comes to a conclusion that he is incapable of reconstructing Amos. Louie stops caring and moves on with his cat life.
+
+~ FIN ~
+ 

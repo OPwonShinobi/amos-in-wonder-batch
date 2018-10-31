@@ -1,0 +1,29 @@
+Amos looked carefully, long and hard, at Louie's little formula.
+"This is easy. I just need to plug stuff into the formula, but first I need to make some conversions," Amos said,
+
+	27'C ->  273'K + 27'K = 300'K
+	100kJ = 100,000J
+
+Now I can plug the numbers all in. 
+
+	^G = ^H - T * ^S
+	> 100,000J = 50J - 300K * ^S
+	> 300 * ^S = -99950J
+	> ^S ~= -333.16J
+
+The reaction is nonspontaneous because the change in free energy is positive, meaning the reaction gained energy and did not convert its reactants to products."
+"Dammit it Amos! You got it right," barked Red Queen, "now you must head home to take a test!"
+"But I don't wanna head home, needless to say do any tests."
+Before Amos can say another word, he wakes up on an unfamiliar bed.
+He turns over and Nikhon looks him in the eye, evidently creeped out.
+"Why are you on Irani's bed?"
+"Oh boy, I effed up," says Amos as he passes out again.
+"Amos, faai di la, go to school," Amos wakes up again to his mom's voice.
+But when he looks up, he sees Irani in his mom's apron.
+Amos passes out one more time from shock. 
+Amos wakes up once again with a blank piece of exam paper in front of him.
+"5 minutes left!" Irani cried out.
+Amos cried his eyes out.
+
+ ~ FIN ~
+ 
